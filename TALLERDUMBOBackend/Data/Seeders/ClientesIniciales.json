@@ -1,0 +1,70 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Mauricio",
+    "Apellido": "Pinilla",
+    "Correo": "mariciopinilla@gmail.com",
+    "RUTorDNI": "15621087-0",
+    "PuntosObtenidos": 200,
+    "UsuarioLogin": null,
+    "contraseña": null,
+    "Token": null,
+    "expiracion": null,
+    "RolId": 0,
+    "Rol": {
+      "Id": 0,
+      "NombreRol": "CLIENTE"
+    }
+  },
+  {
+    "Id": 2,
+    "Nombre": "Arturo",
+    "Apellido": "Vidal",
+    "Correo": "ArturoVidal@gmail.com",
+    "RUTorDNI": "16713130-1",
+    "PuntosObtenidos": 400,
+    "UsuarioLogin": null,
+    "contraseña": null,
+    "Token": null,
+    "expiracion": null,
+    "RolId": 0,
+    "Rol": {
+      "Id": 0,
+      "NombreRol": "CLIENTE"
+    }
+  },
+  {
+    "Id": 3,
+    "Nombre": "Alexis",
+    "Apellido": "Sanchez",
+    "Correo": "AlexisSanchez@gmail.com",
+    "RUTorDNI": "16547865-2",
+    "PuntosObtenidos": 350,
+    "UsuarioLogin": null,
+    "contraseña": null,
+    "Token": null,
+    "expiracion": null,
+    "RolId": 0,
+    "Rol": {
+      "Id": 0,
+      "NombreRol": "CLIENTE"
+    }
+  },
+  {
+    "Id": 4,
+    "Nombre": "Lionel",
+    "Apellido": "Messi",
+    "Correo": "LionelMessi@gmail.com",
+    "RUTorDNI": "23-33016244-9",
+    "PuntosObtenidos": 550,
+    "UsuarioLogin": null,
+    "contraseña": null,
+    "Token": null,
+    "expiracion": null,
+    "RolId": 0,
+    "Rol": {
+      "Id": 0,
+      "NombreRol": "CLIENTE"
+    }
+  }
+]
