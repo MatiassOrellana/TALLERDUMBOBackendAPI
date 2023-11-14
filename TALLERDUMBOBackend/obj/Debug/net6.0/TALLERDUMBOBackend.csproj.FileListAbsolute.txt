@@ -85,3 +85,7 @@ C:\Users\Matias\source\repos\TALLERDUMBOBackend\TALLERDUMBOBackend\obj\Debug\net
 C:\Users\Matias\source\repos\TALLERDUMBOBackend\TALLERDUMBOBackend\obj\Debug\net6.0\TALLERDUMBOBackend.pdb
 C:\Users\Matias\source\repos\TALLERDUMBOBackend\TALLERDUMBOBackend\obj\Debug\net6.0\TALLERDUMBOBackend.genruntimeconfig.cache
 C:\Users\Matias\source\repos\TALLERDUMBOBackend\TALLERDUMBOBackend\obj\Debug\net6.0\ref\TALLERDUMBOBackend.dll
+C:\Users\Matias\source\repos\TALLERDUMBOBackend\TALLERDUMBOBackend\bin\Debug\net6.0\Data\Seeders\Roles.json
+C:\Users\Matias\source\repos\TALLERDUMBOBackend\TALLERDUMBOBackend\bin\Debug\net6.0\Data\Seeders\UsuariosIniciales.json
+C:\Users\Matias\source\repos\TALLERDUMBOBackend\TALLERDUMBOBackend\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Matias\source\repos\TALLERDUMBOBackend\TALLERDUMBOBackend\bin\Debug\net6.0\BouncyCastle.Crypto.dll

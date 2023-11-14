@@ -1,0 +1,62 @@
+[
+  {
+    "Nombre": "Matias",
+    "Apellido": "Orellana",
+    "Correo": "matias.orellana@alumnos.ucn.cl",
+    "RUTorDNI": "20040819-5",
+    "PuntosObtenidos": 0,
+    "UsuarioLogin": "Ochietto",
+    "contraseña": "Jaqamain3pals",
+    "Token": null,
+    "expiracion": null,
+    "RolId": 2
+  },
+  {
+    "Nombre": "Mauricio",
+    "Apellido": "Pinilla",
+    "Correo": "mariciopinilla@gmail.com",
+    "RUTorDNI": "15621087-0",
+    "PuntosObtenidos": 200,
+    "UsuarioLogin": null,
+    "contraseña": null,
+    "Token": null,
+    "expiracion": null,
+    "RolId": 1
+  },
+  {
+    "Nombre": "Arturo",
+    "Apellido": "Vidal",
+    "Correo": "ArturoVidal@gmail.com",
+    "RUTorDNI": "16713130-1",
+    "PuntosObtenidos": 400,
+    "UsuarioLogin": null,
+    "contraseña": null,
+    "Token": null,
+    "expiracion": null,
+    "RolId": 1
+  },
+  {
+    "Nombre": "Alexis",
+    "Apellido": "Sanchez",
+    "Correo": "AlexisSanchez@gmail.com",
+    "RUTorDNI": "16547865-2",
+    "PuntosObtenidos": 350,
+    "UsuarioLogin": null,
+    "contraseña": null,
+    "Token": null,
+    "expiracion": null,
+    "RolId": 1
+  },
+  {
+    "Nombre": "Lionel",
+    "Apellido": "Messi",
+    "Correo": "LionelMessi@gmail.com",
+    "RUTorDNI": "23-33016244-9",
+    "PuntosObtenidos": 550,
+    "UsuarioLogin": null,
+    "contraseña": null,
+    "Token": null,
+    "expiracion": null,
+    "RolId": 1
+  }
+]

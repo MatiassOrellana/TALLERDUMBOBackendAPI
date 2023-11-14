@@ -9,10 +9,10 @@ using TALLERDUMBOBackend.Data;
 
 #nullable disable
 
-namespace TALLERDUMBOBackend.Migrations
+namespace TALLERDUMBOBackend__Backup.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20231103213650_Migrations")]
+    [Migration("20231104003754_Migrations")]
     partial class Migrations
     {
         /// <inheritdoc />

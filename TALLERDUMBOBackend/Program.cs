@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using TALLERDUMBOBackend.Data;
+using TALLERDUMBOBackend.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,5 +28,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+AppSeedService.SeedDatabase(app);
 
 app.Run();

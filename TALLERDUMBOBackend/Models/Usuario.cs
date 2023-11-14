@@ -10,24 +10,15 @@ namespace TALLERDUMBOBackend.Models
         public int Id { get; set; }
 
         /**Nombre del usuario obligatorio entre 2 y 30 caracteres**/
-        [Required]
-        [MinLength(2)]
-        [MaxLength(30)]
         public string Nombre { get; set; }
 
         /**Apellido del usuario obligatorio entre 2 y 30 caracteres**/
-        [Required]
-        [MinLength(2)]
-        [MaxLength(30)]
         public string Apellido { get; set; }
 
         /**Correo del usuario obligatorio en formato xxx@x.x, debe ser único**/
-        [Required]
-        [EmailAddress]
         public string Correo { get; set; }
 
         /**El rut del usuario obligatorio y se debe validar y tambien debe ser unico**/
-        [Required]
         public string RUTorDNI { get; set; }
 
         /**Los puntos del cliente no pueden ser negativos se deben validar**/

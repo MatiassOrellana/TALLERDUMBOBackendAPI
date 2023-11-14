@@ -8,7 +8,7 @@ using TALLERDUMBOBackend.Data;
 
 #nullable disable
 
-namespace TALLERDUMBOBackend.Migrations
+namespace TALLERDUMBOBackend__Backup.Migrations
 {
     [DbContext(typeof(DataContext))]
     partial class DataContextModelSnapshot : ModelSnapshot

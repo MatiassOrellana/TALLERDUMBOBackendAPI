@@ -1,6 +1,17 @@
 [
   {
-    "Id": 1,
+    "Nombre": "Matias",
+    "Apellido": "Orellana",
+    "Correo": "matias.orellana@alumnos.ucn.cl",
+    "RUTorDNI": "20040819-5",
+    "PuntosObtenidos": 0,
+    "UsuarioLogin": "Ochietto",
+    "contraseña": "Jaqamain3pals",
+    "Token": null,
+    "expiracion": null,
+    "RolId": 2
+  },
+  {
     "Nombre": "Mauricio",
     "Apellido": "Pinilla",
     "Correo": "mariciopinilla@gmail.com",
@@ -10,14 +21,9 @@
     "contraseña": null,
     "Token": null,
     "expiracion": null,
-    "RolId": 0,
-    "Rol": {
-      "Id": 0,
-      "NombreRol": "CLIENTE"
-    }
+    "RolId": 1
   },
   {
-    "Id": 2,
     "Nombre": "Arturo",
     "Apellido": "Vidal",
     "Correo": "ArturoVidal@gmail.com",
@@ -27,14 +33,9 @@
     "contraseña": null,
     "Token": null,
     "expiracion": null,
-    "RolId": 0,
-    "Rol": {
-      "Id": 0,
-      "NombreRol": "CLIENTE"
-    }
+    "RolId": 1
   },
   {
-    "Id": 3,
     "Nombre": "Alexis",
     "Apellido": "Sanchez",
     "Correo": "AlexisSanchez@gmail.com",
@@ -44,14 +45,9 @@
     "contraseña": null,
     "Token": null,
     "expiracion": null,
-    "RolId": 0,
-    "Rol": {
-      "Id": 0,
-      "NombreRol": "CLIENTE"
-    }
+    "RolId": 1
   },
   {
-    "Id": 4,
     "Nombre": "Lionel",
     "Apellido": "Messi",
     "Correo": "LionelMessi@gmail.com",
@@ -61,10 +57,6 @@
     "contraseña": null,
     "Token": null,
     "expiracion": null,
-    "RolId": 0,
-    "Rol": {
-      "Id": 0,
-      "NombreRol": "CLIENTE"
-    }
+    "RolId": 1
   }
 ]
