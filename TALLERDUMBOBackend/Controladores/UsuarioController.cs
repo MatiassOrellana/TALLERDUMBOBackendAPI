@@ -7,6 +7,8 @@ using TALLERDUMBOBackend.Models;
 
 namespace TALLERDUMBOBackend.Controladores
 {
+    /*aun que no creo que sea necesario el usuario.... porque el que gestiona es el administrador, no el
+     usuario en si*/
     public class UsuarioController : ControladorBase
     {
         private readonly DataContext _context;
@@ -14,26 +16,6 @@ namespace TALLERDUMBOBackend.Controladores
         public UsuarioController(DataContext context)
         {
             _context = context;
-        }
-
-        [HttpGet]
-        public async Task<ActionResult<List<UsuarioDTO>>> TodosLosUsuarios()
-        {
-            var usuarios = await _context.Usuarios.Where(u => u.RolId == 1).ToListAsync();
-            var usuariosDTO = usuarios.Select(u => new UsuarioDTO
-            {
-                Id = u.Id,
-                Nombre = u.Nombre,
-                Apellido = u.Apellido,
-                Correo = u.Correo,
-                RUTorDNI = u.RUTorDNI,
-                PuntosObtenidos = u.PuntosObtenidos,
-                RolId = u.RolId
-                
-            }).ToList();
-
-            return usuariosDTO;
-
         }
 
     }

@@ -3,6 +3,8 @@ using TALLERDUMBOBackend.Data;
 
 namespace TALLERDUMBOBackend.Extensions
 {
+    /*Esto es un codigo de servicio que lo que hace es cargar los datos semilla y añadirlos a la base de datos utilizando
+     * DataContext*/
     public class AppSeedService
     {
         public static void SeedDatabase(WebApplication app)
@@ -12,7 +14,7 @@ namespace TALLERDUMBOBackend.Extensions
             var logger = scope.ServiceProvider.GetRequiredService<ILogger<Program>>();
             try
             {
-                // Migrate the database, create if it doesn't exist
+                
                 context.Database.Migrate();
                 Seed.SeedData(context);
             }

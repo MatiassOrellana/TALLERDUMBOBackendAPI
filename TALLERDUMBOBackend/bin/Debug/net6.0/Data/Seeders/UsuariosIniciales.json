@@ -7,8 +7,6 @@
     "PuntosObtenidos": 0,
     "UsuarioLogin": "Ochietto",
     "contraseña": "Jaqamain3pals",
-    "Token": null,
-    "expiracion": null,
     "RolId": 2
   },
   {
@@ -19,8 +17,6 @@
     "PuntosObtenidos": 200,
     "UsuarioLogin": null,
     "contraseña": null,
-    "Token": null,
-    "expiracion": null,
     "RolId": 1
   },
   {
@@ -31,8 +27,6 @@
     "PuntosObtenidos": 400,
     "UsuarioLogin": null,
     "contraseña": null,
-    "Token": null,
-    "expiracion": null,
     "RolId": 1
   },
   {
@@ -43,8 +37,6 @@
     "PuntosObtenidos": 350,
     "UsuarioLogin": null,
     "contraseña": null,
-    "Token": null,
-    "expiracion": null,
     "RolId": 1
   },
   {
@@ -55,8 +47,6 @@
     "PuntosObtenidos": 550,
     "UsuarioLogin": null,
     "contraseña": null,
-    "Token": null,
-    "expiracion": null,
     "RolId": 1
   }
 ]

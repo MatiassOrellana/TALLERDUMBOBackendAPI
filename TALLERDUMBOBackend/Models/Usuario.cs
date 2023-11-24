@@ -31,12 +31,6 @@ namespace TALLERDUMBOBackend.Models
         /**la contraseña del administrador**/
         public string? contraseña { get; set; }
 
-        /**el token temporal del administrador**/
-        public string? Token { get; set; }
-
-        /**La expiración del token**/
-        public DateTime? expiracion { get; set; }
-
         /**El rol del usuario**/
         public int RolId { get; set; }
 
